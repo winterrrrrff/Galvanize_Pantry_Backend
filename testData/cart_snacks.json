@@ -1,0 +1,23 @@
+[
+  {
+    "id": "00001",
+    "image": "https://i.loli.net/2021/02/21/QwZlkHzGSn49ATa.png",
+    "name": "Pocky Biscuits",
+    "price": 5.90,
+    "num": 5
+  },
+  {
+    "id": "00002",
+    "image": "https://i.loli.net/2021/02/21/T5kE8HRV6329IJp.png",
+    "name": "Potato Chips",
+    "price": 2.88,
+    "num": 7
+  },
+  {
+    "id": "00003",
+    "image": "https://i.loli.net/2021/02/21/7VmFrESk4RiCAJH.png",
+    "name": "Lemon Tea",
+    "price": 1.35,
+    "num": 10
+  }
+]

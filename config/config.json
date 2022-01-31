@@ -1,0 +1,27 @@
+
+{
+  "development": {
+    "username": "root",
+    "password": "!985Jinlizhong",
+    "database": "MyDataBase",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "ccs0222",
+    "database": "database_test",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "ccs0222",
+    "database": "database_production",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}

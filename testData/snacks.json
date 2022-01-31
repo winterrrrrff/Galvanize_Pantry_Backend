@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "img": "https://i.ibb.co/n3X6Zqr/cheetos.jpg",
+            "name": "cheetos",
+            "price": 3.99,
+            "cate": "Crackers",
+            "vote": 0
+        },
+        {
+            "id": 2,
+            "img": "https://i.ibb.co/pWGxSbm/doritos.jpg",
+            "name": "doritos",
+            "price": 3.99,
+            "cate": "Crackers",
+            "vote": 0
+        },
+        {
+            "id": 3,
+            "img": "https://i.ibb.co/37j3vYz/lays-Chips.jpg",
+            "name": "lays",
+            "price": 3.99,
+            "cate": "Chips",
+            "vote": 0
+        },
+        {
+            "id": 4,
+            "img": "https://i.ibb.co/9vg9xQy/pringles.jpg",
+            "name": "pringles",
+            "price": 4.29,
+            "cate": "Chips",
+            "vote": 0
+        },
+        {
+            "id": 5,
+            "img": "https://i.ibb.co/rZQYm3P/ritz.jpg",
+            "name": "ritz",
+            "price": 1.32,
+            "cate": "Biscuits",
+            "vote": 0
+        },
+        {
+            "id": 6,
+            "img": "https://i.ibb.co/nD5b1Nw/tostito.jpg",
+            "name": "tostito",
+            "price": 3.99,
+            "cate": "Crackers",
+            "vote": 1
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+
+export const googleConfigs =
+{"web":{"client_id":"151515184899-oemjj6mkoi036v3spidcpktl2aua7eav.apps.googleusercontent.com","project_id":"galvanize-sense8","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"0AuyFHVuIS-Db0XegZjg3G05","redirect_uris":["https://galvanize-pantry.herokuapp.com/"],"javascript_origins":["https://galvanize-pantry.herokuapp.com"]}}
